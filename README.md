@@ -24,6 +24,7 @@ I am a Chartered IT Professional (CITPnz) with extensive experience as an IT Man
 - Developed bespoke dashboards providing clients with business insights using Angular and NestJS.
 - Led multiple internship programs, mentoring and guiding interns in real-world projects.
 - Successfully aligned projects with ISO 27001 standards, ensuring high security and quality.
+- Created [Terian ID Creator](https://terian.co.nz/), used to produce over 100,000 polytechnic identity cards.
 
 ## Community and Leadership
 
