@@ -7,7 +7,7 @@ I am a Chartered IT Professional (CITPnz) with extensive experience as an IT Man
 ## Skills and Technologies
 
 - **Languages:** Visual Basic, ASP, Delphi, TSQL, PHP, JavaScript, TypeScript
-- **Frameworks and Tools:** Angular, NestJS, Kubernetes, AWS, MongoDB, SQL Server, Redis, Postman
+- **Frameworks and Tools:** Angular, NestJS, Kubernetes, Drone, Terraform, AWS, MongoDB, SQL Server, Redis, Postman
 - **API Integration:** OKTA's Auth0, Google Analytics, AWS
 - **Virtualisation Technologies:** Hyper-V, VMware
 - **Networking:** Windows Server Networking
