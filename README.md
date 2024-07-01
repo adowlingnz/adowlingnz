@@ -2,7 +2,7 @@
 
 # About Me
 
-I am a Chartered IT Professional (CITPnz) with extensive experience as an IT Manager and Senior Software Engineer, specializing in governance and operations. My expertise spans the full software development lifecycle, from client-server products to scalable enterprise solutions.
+I am a Chartered IT Professional (CITPnz) with extensive experience as an IT Manager and Senior Software Engineer, specialising in governance and operations. My expertise spans the full software development lifecycle, from client-server products to scalable enterprise solutions.
 
 ## Skills and Technologies
 
