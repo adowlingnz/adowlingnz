@@ -1,35 +1,67 @@
 ## Hi there 👋 I'm Anthony
 
-# About Me
+### Senior Lead Software Engineer · Platform & API Engineering · Technical Leader
 
-I am a Chartered IT Professional (CITPnz) with extensive experience as an IT Manager and Senior Software Engineer, specialising in governance and operations. My expertise spans the full software development lifecycle, from client-server products to scalable enterprise solutions.
+I’m a **Chartered IT Professional (CITPnz)** with deep experience designing and operating **large-scale platforms, APIs, and data systems**. I work across the full lifecycle — from architecture and cloud migration through to delivery, reliability, and long-term stewardship.
 
-## Skills and Technologies
+My day-to-day work sits at the intersection of **software engineering, infrastructure, and leadership**: building systems that scale, mentoring engineers, and helping organisations make sound technical decisions over time.
 
-- **Languages:** Visual Basic, ASP, Delphi, TSQL, PHP, JavaScript, TypeScript
-- **Frameworks and Tools:** Angular, NestJS, Kubernetes, Drone, Terraform, AWS, MongoDB, SQL Server, Redis, Postman
-- **API Integration:** OKTA's Auth0, Google Analytics, AWS
-- **Virtualisation Technologies:** Hyper-V, VMware
-- **Networking:** Windows Server Networking
-- **Database Administration:** SQL Server
+---
 
-## Professional Highlights
+## What I Focus On
 
-- Experience in managing and developing enterprise solutions.
-- Proven track record in building scalable web applications and services.
-- Strong background in integrating and managing external APIs.
+- **Platform & API Engineering** – designing stable, well-governed APIs and SDKs  
+- **Cloud & Infrastructure** – Kubernetes, Terraform, AWS, Google Cloud  
+- **Data-intensive systems** – PostgreSQL, MongoDB, Redis, analytics pipelines  
+- **Engineering leadership** – mentoring, standards, delivery principles, RFCs  
+- **Security & governance** – ISO 27001 alignment, access control, risk management  
 
-## Key Projects
+---
 
-- Developed bespoke dashboards providing clients with business insights using Angular and NestJS.
-- Led multiple internship programs, mentoring and guiding interns in real-world projects.
-- Successfully aligned projects with ISO 27001 standards, ensuring high security and quality.
-- Created [Terian ID Creator](https://terian.co.nz/), used to produce over 100,000 polytechnic identity cards.
+## Core Technologies
 
-## Community and Leadership
+**Languages**
+- TypeScript, JavaScript, Python, SQL  
 
-- President and Chair of the Board at the Institute of IT Professionals in New Zealand, supporting 3,000 members.
-- Advocate for continuous learning and professional development in the IT community.
+**Frameworks & Platforms**
+- Angular, NestJS  
+- Kubernetes, Docker  
+- Terraform, AWS, Azure, Google Cloud  
+
+**Data & Messaging**
+- PostgreSQL, MongoDB, Redis  
+- SQL Server (legacy & enterprise environments)  
+
+**Identity & Integrations**
+- Auth0 / OKTA  
+- Google Analytics, external REST APIs  
+
+**DevOps & Tooling**
+- CI/CD pipelines  
+- Infrastructure as Code  
+- Observability and operational tooling  
+
+---
+
+## Selected Work & Impact
+
+- Designed and delivered **enterprise dashboards and APIs** used by thousands of concurrent users  
+- Led **cloud and database migration strategies**, including expand–migrate–contract patterns  
+- Built internal SDKs and tooling to **improve developer experience and platform adoption**  
+- Mentored engineers from intern through to senior level, fostering strong engineering culture  
+- Aligned platforms and delivery practices with **ISO 27001 security responsibilities**  
+- Created **Terian ID Creator**, used to generate **100,000+ polytechnic ID cards** → https://terian.co.nz/  
+
+---
+
+## Leadership & Community
+
+- **Past President**, Institute of IT Professionals New Zealand (3,000 members)  
+- Board-level experience in governance, strategy, and operational oversight  
+- Strong advocate for **professional standards, psychological safety, and continuous learning**  
+- Regular mentor and supporter of early-career and mid-career engineers  
+
+---
 
 ## Connect with Me
 
